@@ -3,14 +3,14 @@
 <a href="https://handlebarsjs.com/" rel="nofollow"> <img src="https://cdn.iconscout.com/icon/free/png-256/handlebars-282936.png" alt="hbs" width="70" height="70" style="max-width: 100%;"> </a> &nbsp;&nbsp;
 
 * * *
-                                               Spanish Version
+                                  Spanish Version
 
 ## Código fuente de un servidor Express con Handlebars, desplegado en Heroku
 
 ###### Realizada en el curso de Udemy (Sección 7): [Node: De cero a experto](https://www.udemy.com/course/node-de-cero-a-experto/)
 
 * * *
-                                               English Version
+                                  English Version
 
 
 ## Source code of a Express server with Handlebars, deployed on Heroku
